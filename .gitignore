@@ -1,0 +1,6 @@
+# Mave #
+target/
+
+# IDEA #
+.idea/
+*.iml
